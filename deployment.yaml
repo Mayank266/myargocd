@@ -18,7 +18,7 @@ spec:
         app: mydep
     spec:
       containers:
-      - image: gcr.io/boxwood-academy-347708/angular:latest
+      - image:gcr.io/boxwood-academy-347708/angular 
         name: angular
         resources: {}
 status: {}
